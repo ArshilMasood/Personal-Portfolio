@@ -469,3 +469,124 @@ body{
         font-size: 0.6rem;
     }
 }
+
+
+@media (max-width: 350px){
+    .container1{
+        flex-direction: column;
+        align-items: center;
+    }
+    .container3 {
+        padding-left: 1%;
+    }
+    .container3 a {
+        font-size: 0.75rem;
+    }
+
+    .container1 .container3 > .new {
+        text-align: center;
+    }
+    .container5 > .con > h1 {
+        font-size: 2.5rem;
+    }
+    .container5 > .con > #size {
+        font-size: 1.5rem;
+    }
+    .container5 > p {
+        font-size: 1rem;
+        padding-left: 4%;
+    }
+
+    .container4{
+        flex-direction: column;
+        align-items: center;
+    }
+    .container6 > img {
+        height: 300px !important;
+        width: 200px !important;
+    }
+    .container7 > p {
+        font-size: 1.2rem;
+        padding-left: 1%;
+    }
+    .container7 > img {
+        float: none;
+        height: 107px !important;
+        width: 210px !important;
+    }
+    .container7 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .sec4 > h2 {
+        margin-top: 0px;
+    }
+    .sec4 pre {
+        font-size: 1.2rem;
+    }
+    .sec4 .size1 {
+        height: 192px;
+        width: 202px;
+    }
+    .sec4 .size2 {
+        height: 192px;
+        width: 208px;
+    }
+    .sec4 .size3 {
+        height: 192px;
+        width: 204px !important;
+    }
+    .container8 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec4 > h2 {
+        text-align: center;
+    }
+
+    .container9 img {
+        height: 140px;
+        width: 220px;
+    }
+    .container9 {
+        flex-direction: column;
+        align-items: center;
+    }
+    .sec5 > h2 {
+        text-align: center;
+    }
+    .con4 {
+        margin-bottom: 30px;
+    }
+    .con3 > p {
+        font-size: 1.2rem;
+    }
+    h3 {
+        font-size: 2rem;
+    }
+    .new1 {
+        margin-top: 0px;
+        font-size: 1.2rem;
+    }
+    .con6 img {
+        height: 3rem;
+    }
+    .con7 img {
+        height: 3rem;
+    }
+    .con8 img {
+        height: 3rem;
+    }
+
+    .container10 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    footer > p {
+        font-size: 0.6rem;
+    }
+
+}
