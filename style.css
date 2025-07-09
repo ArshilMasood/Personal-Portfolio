@@ -360,7 +360,7 @@ body{
         align-items: center;
     }
     .container3 {
-        padding-left: 2%;
+        padding-left: 2% !important;
     }
 
     .container1 .container3 > .new {
@@ -477,7 +477,7 @@ body{
         align-items: center;
     }
     .container3 {
-        padding-left: 0.5%;
+        padding-left: 0.7% !important;
     }
     .container3 a {
         font-size: 0.75rem;
@@ -524,7 +524,7 @@ body{
         margin-top: 0px;
     }
     .sec4 pre {
-        font-size: 0.75rem !important;
+        font-size: 0.9rem !important;
     }
     .sec4 .size1 {
         height: 192px;
