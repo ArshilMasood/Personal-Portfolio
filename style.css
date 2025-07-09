@@ -471,13 +471,13 @@ body{
 }
 
 
-@media (max-width: 380px){
+@media (max-width: 330px){
     .container1{
         flex-direction: column;
         align-items: center;
     }
     .container3 {
-        padding-left: 1%;
+        padding-left: 0.5%;
     }
     .container3 a {
         font-size: 0.75rem;
@@ -511,7 +511,7 @@ body{
     }
     .container7 > img {
         float: none;
-        height: 107px !important;
+        height: 207px !important;
         width: 210px !important;
     }
     .container7 {
@@ -524,19 +524,19 @@ body{
         margin-top: 0px;
     }
     .sec4 pre {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     .sec4 .size1 {
         height: 192px;
-        width: 202px;
+        width: 185px !important;
     }
     .sec4 .size2 {
         height: 192px;
-        width: 208px;
+        width: 188px !important;
     }
     .sec4 .size3 {
         height: 192px;
-        width: 204px !important;
+        width: 186px !important;
     }
     .container8 {
         flex-direction: column;
